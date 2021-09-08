@@ -3,3 +3,4 @@
 - 📘 I’m currently pursuing my BSC.CS degree.
 - 🏫 I’m currently learning Artificial Intelligence
 - (¬‿¬) I’m looking to collaborate on open source projects
+- I can code in ->> ***c***, ***python***, ***javascript***
