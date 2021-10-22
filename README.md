@@ -8,3 +8,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cnshu&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cnshu&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cnshu&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cnshu&theme=default)
