@@ -1,7 +1,6 @@
 ### Hi there 👋 I am programmer Himanshu
 
 - 📘 I’m currently pursuing my BSC.CS degree
-- 💻 I can code in ->> C++, Python & JavaScript
 - 💎 **[MAIL ME](himanshuchauhan091@gmail.com)** OR **[LINKED.IN](https://www.linkedin.com/in/imcoderhimanshu/)**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnshu&theme=github_dark)
