@@ -1,8 +1,8 @@
 ### Hi there 👋 I am programmer Himanshu
 
 - 📘 I’m currently pursuing my BSC.CS degree
-- 💻 LANGUAGES ->> ***C++***,***python*** & ***javascript***
-- 💎 [MAIL ME](himanshuchauhan091@gmail.com) 🔗 [LINKED.IN](https://www.linkedin.com/in/imcoderhimanshu/)
+- 💻 Coding ->> ***C++***,***python*** & ***javascript***
+- 💎 [MAIL ME](himanshuchauhan091@gmail.com) . [LINKED.IN](https://www.linkedin.com/in/imcoderhimanshu/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnshu&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cnshu&theme=github_dark)
