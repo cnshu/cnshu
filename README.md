@@ -9,17 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=cnshu&theme=dark&show_icons=true)
 
 <br/>
-
-## Programming Languages
-
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-%23005194.svg?style=for-the-badge&logo=python&logoColor=%23ffc"/>
-<img align="left" alt="Python" src="https://img.shields.io/badge/c%2B%2B-%23ffbf00.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23050402"/>
-
-
-
-<br>
-<br>
+<br/>
 
 ## Connect with me
 
