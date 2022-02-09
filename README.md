@@ -1,7 +1,6 @@
 ### Hi there 👋 I am programmer Himanshu
 
 - 📘 I’m currently pursuing my BSC.CS degree
-- 💎 check my **[portfolio](https://coder-himanshu.web.app)**
 
 <br/>
 
